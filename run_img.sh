@@ -1,5 +1,7 @@
 #!/bin/bash
 
+mkdir -p results
+
 ./build/CRTREES_img ./data/im0.png 0 4 0.0 2 1 ./results/im0
 # Perform superpixel segmentation or hierarchical image segmentation (HIS) for a color image
 # ./build/CRTREES_img img linkage num_neighbor sigma seg_format target_clus out_name

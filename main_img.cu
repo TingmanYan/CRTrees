@@ -5,7 +5,7 @@ main(int argc, char** argv)
 {
     if (argc != 8) {
         std::cerr
-          << "usage: perform superpixel segmentation or HIS for a color image" << argv[0]
+          << "usage: perform superpixel segmentation or HIS for a color image " << argv[0]
           << " img linkage num_neighbor sigma seg_format target_clus out_name\n"
              "img: the input image\n"
              "linkage: 0 - MinLink, 1 - MaxLink, 2 - CentoridLink, 3 - WardLink\n"

@@ -4,7 +4,7 @@ int
 main(int argc, char** argv)
 {
     if (argc != 6) {
-        std::cerr << "usage: perform superpixel segmentation or HIS for video streams" << argv[0]
+        std::cerr << "usage: perform superpixel segmentation or HIS for video streams " << argv[0]
                   << "linkage num_neighbor sigma seg_format target_clus\n"
                      "linkage: 0 - MinLink, 1 - MaxLink, 2 - CentoridLink, 3 - WardLink\n"
                      "num_neighbor: 4 or 8, the number of neighbors for the initial pixel\n"

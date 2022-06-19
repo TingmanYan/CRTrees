@@ -1,5 +1,5 @@
 /*
- *  Hierarchical Image Segmentation by parallel CRTrees labeling.
+ *  Hierarchical Image Segmentation by Parallel CRTrees Labeling.
  *  The step-complexity is O(log(N)) and the work-complexity is O(N) in average.
  *  The memory required is O(N).
  *  Author: Tingman Yan (tmyann@outlook.com)

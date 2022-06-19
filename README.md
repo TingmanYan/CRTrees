@@ -22,7 +22,7 @@ Video streams (a web camera is required)
 ```
 bash run_video.sh
 ```
-It can achieve about 20fps for 480P video streams on an NVIDIA MX350 GPU and consume less than 200MB GPU memory. 200+fps can be achieved on a Titan Xp GPU.
+It can achieve about 20fps for 480P video streams on an NVIDIA MX350 GPU and consume less than 200MB GPU memory. 200+fps can be achieved on a Titan Xp GPU. Faster speed can be achieved if the GPU version of OpenCV is used.
 ## Benchmark
 The superpixel benchmark [[repo](https://github.com/davidstutz/superpixel-benchmark)] shall be put in the same level dir as this repo. See the dir in `bench_superpixels.sh` for dietails.
 ```

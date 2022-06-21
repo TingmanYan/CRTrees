@@ -1,4 +1,4 @@
-# Hierarchical Image Segmentation Superpixel Segmentation by Parallel CRTrees Labeling
+# Hierarchical Superpixel Segmentation by Parallel CRTrees Labeling
 # Workflow
 ![CRTREES](workflow.png)
 # Dependency

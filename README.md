@@ -4,8 +4,6 @@
 # Dependency
 - CUDA >= 6.0
 - OpenCV >= 3.0
-
-The code has been tested on ubuntu.
 # Usage
 Compile the code
 ```

@@ -18,7 +18,7 @@ Video streams (a web camera is required)
 ```
 bash run_video.sh
 ```
-It can achieve about 20fps for 480P video streams on an NVIDIA MX350 GPU and consume less than 200MB GPU memory. 200+fps can be achieved on a Titan Xp GPU. Faster speed can be achieved if the GPU version of OpenCV is used.
+CRTREES can achieve 200+fps for 480P video streams on a Titan Xp GPU. Faster speed can be achieved if the GPU version of OpenCV is used.
 ## Benchmark
 The superpixel benchmark (https://github.com/davidstutz/superpixel-benchmark) shall be put in the same level directory as this project.
 ```

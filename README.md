@@ -36,4 +36,4 @@ The superpixel benchmark (https://github.com/davidstutz/superpixel-benchmark) sh
 ```
 bash bench_superpixels.sh BSDS500
 ```
-## The same results as in the paper can be obtained.
+The same results as in the paper can be obtained.

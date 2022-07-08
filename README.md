@@ -1,4 +1,16 @@
 # Hierarchical Superpixel Segmentation by Parallel CRTrees Labeling
+Please cite the [[paper](https://ieeexplore.ieee.org/document/9819438)] if you find it useful
+```
+@ARTICLE{9819438,
+author={Yan, Tingman and Huang, Xiaolin and Zhao, Qunfei},
+journal={IEEE Transactions on Image Processing},
+title={Hierarchical Superpixel Segmentation by Parallel CRTrees Labeling},
+year={2022},
+volume={},
+number={},
+pages={1-1},
+doi={10.1109/TIP.2022.3187563}}
+```
 # Workflow
 ![CRTREES](workflow.png)
 # Dependency

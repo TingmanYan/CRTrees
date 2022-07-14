@@ -6,9 +6,9 @@ author={Yan, Tingman and Huang, Xiaolin and Zhao, Qunfei},
 journal={IEEE Transactions on Image Processing},
 title={Hierarchical Superpixel Segmentation by Parallel CRTrees Labeling},
 year={2022},
-volume={},
+volume={31},
 number={},
-pages={1-1},
+pages={4719-4732},
 doi={10.1109/TIP.2022.3187563}}
 ```
 # Workflow
